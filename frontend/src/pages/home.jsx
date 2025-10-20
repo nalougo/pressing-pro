@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 import AuthModal from "../pages/form"; // Ajoutez cette ligne
 import PressingAuthModal from "../pages/preform";
 
-import linge from "../assets/Image/linge.jpg";
+import linge from "../assets/image/linge.jpg";
 import logo from "../assets/image/logopro.png";
 import machine from "../assets/icons/machine.png";
 import nettoyage from "../assets/icons/nettoyage.png";
