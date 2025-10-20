@@ -1,0 +1,66 @@
+[
+  {
+    "id": "user001",
+    "name": "Jean Kouassi",
+    "phone": "+225 0123456789",
+    "password": "$2a$10$abcdefghijklmnopqrstuvwxyz1234567890",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "user002",
+    "name": "Marie Yamgui",
+    "phone": "+225 0987654321",
+    "password": "$2a$10$abcdefghijklmnopqrstuvwxyz1234567890",
+    "createdAt": "2024-01-16T14:20:00.000Z",
+    "updatedAt": "2024-01-16T14:20:00.000Z"
+  },
+  {
+    "id": "j9uu9v2rb",
+    "name": "Yeo Nalougo",
+    "phone": "+225 0506155902",
+    "password": "$2b$10$wJFDRg7BRdZiUZ/TouoMHuYxDH0OnPQH6bhFrQzvjSJ7EwPA1bD3e",
+    "createdAt": "2025-10-18T10:53:22.953Z",
+    "updatedAt": "2025-10-18T10:53:22.953Z"
+  },
+  {
+    "id": "ub137y57u",
+    "name": "mo p",
+    "phone": "+225 0102030405",
+    "password": "$2b$10$6s.5ZOgfwd15nkTQoxwK6.PytHEV44HgYf8SO4OAXr381stjEG1ti",
+    "createdAt": "2025-10-18T11:14:53.789Z",
+    "updatedAt": "2025-10-18T11:14:53.789Z"
+  },
+  {
+    "id": "atytengoi",
+    "name": "kouakou ange",
+    "phone": "+225 1220020335",
+    "password": "$2b$10$4cfTrz5Zg.PFSRl4kRg0w.00hqDMVBLv2GU4cjq39a3ji/bW6aSp2",
+    "createdAt": "2025-10-18T18:06:21.164Z",
+    "updatedAt": "2025-10-18T18:06:21.164Z"
+  },
+  {
+    "id": "6cz3k89p6",
+    "name": "mon pot",
+    "phone": "+225 0506070809",
+    "password": "$2b$10$KdXKsdZIVzjsdutQYfYbKeRFZA0.kdQp478wVYDwsrvdauhTKnDWG",
+    "createdAt": "2025-10-18T18:32:22.947Z",
+    "updatedAt": "2025-10-18T18:32:22.947Z"
+  },
+  {
+    "id": "vxdojw0e2",
+    "name": "jean françois",
+    "phone": "+225 4119282724",
+    "password": "$2b$10$dp/BAiwF92nKyL8zgPyC3O8VZ3rCxb6HW.5RoO3rloR1gjfyOBnYK",
+    "createdAt": "2025-10-19T22:58:32.197Z",
+    "updatedAt": "2025-10-19T22:58:32.197Z"
+  },
+  {
+    "id": "gela9hru8",
+    "name": "zanga",
+    "phone": "+225 4115533669",
+    "password": "$2a$10$X25nZtcOkMtPn2ULmbRHcuWAVxpN.j79jV5LJlnObhmDOqVGiY3rm",
+    "createdAt": "2025-10-20T08:42:07.582Z",
+    "updatedAt": "2025-10-20T08:42:07.582Z"
+  }
+]

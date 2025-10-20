@@ -1,0 +1,50 @@
+[
+    {
+      "id_commande": 1,
+      "id_client": 1,
+      "date_commande": "2024-01-15",
+      "adresse_collecte": "Cocody Angré, Rue des Jardins",
+      "date_collecte": "2024-01-16",
+      "heure_collecte": "09:00",
+      "telephone": "+225 0123456789",
+      "pressing_id": 1,
+      "instructions": "Lavage délicat",
+      "statut": "en-collecte",
+      "total": 8500,
+      "livraison_prevue": "2024-01-18",
+      "livreur_id": 1,
+      "created_at": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id_commande": 2,
+      "id_client": 1,
+      "date_commande": "2024-01-10",
+      "adresse_collecte": "Plateau, Avenue de la Paix",
+      "date_collecte": "2024-01-11",
+      "heure_collecte": "14:00",
+      "telephone": "+225 0123456789",
+      "pressing_id": 2,
+      "instructions": "Repassage important",
+      "statut": "pret",
+      "total": 12000,
+      "livraison_prevue": "2024-01-12",
+      "livreur_id": 2,
+      "created_at": "2024-01-10T08:15:00Z"
+    },
+    {
+      "id_commande": 3,
+      "id_client": 2,
+      "date_commande": "2024-01-05",
+      "adresse_collecte": "Yopougon, Rue Principale",
+      "date_collecte": "2024-01-06",
+      "heure_collecte": "10:00",
+      "telephone": "+225 0987654321",
+      "pressing_id": 3,
+      "instructions": "Nettoyage à sec",
+      "statut": "en-cours",
+      "total": 15000,
+      "livraison_prevue": "2024-01-08",
+      "livreur_id": 3,
+      "created_at": "2024-01-05T14:45:00Z"
+    }
+  ]
